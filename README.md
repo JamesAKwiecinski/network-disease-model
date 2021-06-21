@@ -1,4 +1,8 @@
 # network-disease-model
+<p align="center">
+<img src="https://user-images.githubusercontent.com/86231828/122758663-6ab7ca80-d2dc-11eb-802e-8c95e4f8a6ac.gif" width="400" height="400">
+</p>  
+
 ### A simple agent-based model written in Python to simulate network disease propagation.
   This repository is a Python implementation of the algorithm simulating disease transmission throughout a network of individuals, as discussed in "When Science and Mathematics Collide: Agent-Based Modeling of COVID-19 Spread", which will soon make a appearance in the publication _LabTalk_ (to be updated with issue number soon). Although I encourage you to try programming the algorithm yourself, my code is made available here so that you can delve head-first into investigating many of the epidemiology concepts covered in the article.
 
